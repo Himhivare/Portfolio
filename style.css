@@ -320,7 +320,7 @@ span{
 }
 
 .line{
-    height: 422px;
+    height: 464px;
     width: 5px;
     background-color: var(--main-color);
     box-shadow: 0 0 25px var(--main-color),
